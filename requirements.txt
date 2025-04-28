@@ -1,0 +1,5 @@
+# Requires Python between 3.9 and 3.11
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+pillow>=10.4.0
+numpy>=1.26.4
